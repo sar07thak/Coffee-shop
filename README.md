@@ -39,3 +39,4 @@ This is a responsive coffee shop website built with HTML, CSS, and JavaScript, w
 <p>This project serves as a hands-on way to revise core JavaScript concepts like DOM manipulation, event handling, and styling with CSS, all within a seperate files for simplicity.
 Setup Instructions</p>
 
+<i><h3>Please visit us by using this link 👉👉 https://sar07thak.github.io/Coffee-shop/</h3></i>

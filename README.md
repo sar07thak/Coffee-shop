@@ -28,66 +28,14 @@ This is a responsive coffee shop website built with HTML, CSS, and JavaScript, w
   </li>
 </ul>
 
-Technologies Used
+<h2>Technologies Used</h2>
 
     HTML: For structuring all sections within a single file.
     CSS: For styling the layout and design.
     JavaScript: For adding interactivity, such as menu toggling and form validation.
 
-Purpose
+<h2>Purpose</h2>
 
-This project serves as a hands-on way to revise core JavaScript concepts like DOM manipulation, event handling, and styling with CSS, all within a single HTML file for simplicity.
-Setup Instructions
+<p>This project serves as a hands-on way to revise core JavaScript concepts like DOM manipulation, event handling, and styling with CSS, all within a seperate files for simplicity.
+Setup Instructions</p>
 
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/your-username/coffee-shop-website.git
-
-Navigate to the project directory:
-
-bash
-
-    cd coffee-shop-website  
-
-    Open the file in your browser:
-    Just double-click the index.html file, or use a live server extension (like in VSCode).
-
-File Structure
-
-bash
-
-/coffee-shop-website  
-│  
-└── index.html          # Single HTML file containing all sections  
-
-How to Contribute
-
-    Fork the repository.
-    Create a new branch:
-
-    bash
-
-git checkout -b feature-name  
-
-Commit your changes:
-
-bash
-
-git commit -m "Added feature-name"  
-
-Push your branch:
-
-bash
-
-    git push origin feature-name  
-
-    Open a Pull Request.
-
-License
-
-This project is licensed under the MIT License.
-Acknowledgments
-
-Special thanks to everyone who contributed ideas and feedback to enhance this project.
